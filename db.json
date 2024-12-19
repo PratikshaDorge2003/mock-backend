@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "2daf",
+      "title": "Test User Flows",
+      "description": "Performance user acceptance test",
+      "dueDate": "2024-12-22",
+      "priority": "High",
+      "status": "Completed"
+    },
+    {
+      "id": "c964",
+      "title": "Optimize UI",
+      "description": "Improve responsiveness",
+      "dueDate": "2024-12-08",
+      "priority": "Low",
+      "status": "Completed"
+    },
+    {
+      "id": "1420",
+      "title": "Redux Implemetation",
+      "description": "Create Store",
+      "dueDate": "2024-12-22",
+      "priority": "Low",
+      "status": "Not Started"
+    },
+    {
+      "id": "188c",
+      "title": "Api Integration",
+      "description": "Connect frontend to Backend",
+      "dueDate": "2024-12-08",
+      "priority": "Medium",
+      "status": "Not Started"
+    },
+    {
+      "id": "a493",
+      "title": "Design HomePage",
+      "description": "Create a homepage",
+      "dueDate": "2024-12-16",
+      "priority": "Low",
+      "status": "Completed"
+    }
+  ],
+  "users": [
+    {
+      "userName": "sonal",
+      "email": "s@gmail.com",
+      "password": "1234567",
+      "id": "e518"
+    }
+  ]
+}
